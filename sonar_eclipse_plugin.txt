@@ -1,0 +1,2 @@
+help--> install new software 
+http://downloads.sonarsource.com/eclipse/eclipse/
